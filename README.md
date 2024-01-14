@@ -11,3 +11,5 @@ For node js - Babel is a popular tool that lets you use the newest features of J
 #body-parser - the Node js body-parsing middleware. It is responsible for parsing the incoming request bodies in a middleware before you handle it.
 
 #ava - Ava is a test runner for Node js with a concise API, which embraces new language features, has detailed error output and process isolation. While Ava is mostly used to run unit tests.
+
+#Nodemon - a command-line tool that helps with the speedy development of Node. js applications. It monitors your project directory and automatically restarts your node application when it detects any changes. This means that you do not have to stop and restart your applications in order for your changes to take effect.
